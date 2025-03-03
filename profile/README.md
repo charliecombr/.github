@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/charliecombr.png" alt="Charlie Team Logo" width="200"/>
+  <img src="Frame_13.png" alt="Descrição da Imagem" width="200"/>
   <h1>Charlie Team</h1>
   <p>Desenvolvendo soluções inovadoras em tecnologia</p>
 </div>
